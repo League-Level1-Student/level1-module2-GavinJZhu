@@ -14,7 +14,7 @@ public class SeaCreature {
 
 
 	private String name;
-
+//This is my constructor
 	SeaCreature(String name) {
 		this.name = name;
 	}

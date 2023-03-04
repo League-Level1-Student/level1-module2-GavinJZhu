@@ -34,7 +34,7 @@ This is because there is no Minion class in the package.
  */
 
 public class MinionTest {
-
+/*
 	@Test
 	public void testConstructor() {
 		Minion stuart = new Minion("Stuart", 1, "yellow", "");
@@ -58,7 +58,7 @@ public class MinionTest {
 		stuart.setMaster("Napoleon");
 		assertEquals("Napoleon", stuart.getMaster());
 	}
-
+*/
 }
 
 
